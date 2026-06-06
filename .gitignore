@@ -7,7 +7,12 @@ node_modules/
 .expo/
 dist/
 web-build/
+example/
 expo-env.d.ts
+
+# Natives
+android/
+ios/
 
 # Native
 .kotlin/
